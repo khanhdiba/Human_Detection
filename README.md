@@ -13,3 +13,5 @@ I mainly used <b>Streamlit</b> to build this web. I also used YOLO model from <b
 - 3: Open your terminal (which contains app.py) and run this command:
     <code>streamlit run app.py</code>
 
+# Demo of my assignment:
+📽️ [Watch Demo Video](./Video/Demo_Video.mp4)
