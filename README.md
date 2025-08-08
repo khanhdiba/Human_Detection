@@ -14,4 +14,4 @@ I mainly used <b>Streamlit</b> to build this web. I also used YOLO model from <b
     <code>streamlit run app.py</code>
 
 # Demo of my assignment:
-📽️ [Watch Demo Video](./Video/Demo_Video.mp4)
+📽️ [Watch Demo Video](https://youtu.be/oHdxEwCq5tg)
